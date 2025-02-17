@@ -6,8 +6,7 @@
 ### 🌟 About Me  
 🔹 Passionate about **Machine Learning & AI**  
 🔹 Currently building an **AI-powered Time Management Coach** ⏳  
-🔹 Looking for **Machine Learning Engineer** roles 🤖  
-🔹 Love contributing to **Open Source & AI Research**    
+🔹 Looking for **Machine Learning Engineer** roles 🤖    
 
 ---
 
