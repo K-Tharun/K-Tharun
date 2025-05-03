@@ -31,4 +31,4 @@
 
 💡 **"The best way to predict the future is to create it."**  
 
-🔹 Want to work together? Drop me a message on [LinkedIn](www.linkedin.com/in/tharun-kammavarambatti)! 🚀  
+🔹 Want to work together? Drop me a message on [LinkedIn](https://www.linkedin.com/in/tharun-kammavarambatti/))! 🚀  
