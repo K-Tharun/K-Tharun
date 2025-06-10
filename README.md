@@ -1,12 +1,12 @@
 <h1 align="center">Hey there! 👋 I'm Tharun</h1>
-<h3 align="center">🚀 Machine Learning Enthusiast | 🎓 CS Master's @ Illinois Tech </h3>
+<h3 align="center">🚀 Machine Learning Engineer | 🎓 CS Master's @ Illinois Tech </h3>
 
 ---
 
 ### 🌟 About Me  
 🔹 Passionate about **Machine Learning & AI**  
-🔹 Currently building an **AI-powered Time Management Coach** ⏳  
-🔹 Looking for **Machine Learning Engineer** roles 🤖    
+🔹 Currently building an **AI-powered Recommendation System** ⏳  
+🔹 Looking for **ML Engineer/ Data** roles 🤖    
 
 ---
 
@@ -24,11 +24,11 @@
 
 ### 🔥 Fun Facts  
 🎯 I love solving real-world problems with AI  
-📚 Always learning new ML & MLOps tools  
+📚 Always learning new AT, ML & MLOps tools  
 🎮 Gaming & Sci-Fi geek  
 
 ---
 
 💡 **"The best way to predict the future is to create it."**  
 
-🔹 Want to work together? Drop me a message on [LinkedIn](https://www.linkedin.com/in/tharun-kammavarambatti/))! 🚀  
+🔹 Want to work together? Drop me a message on [LinkedIn](https://www.linkedin.com/in/tharun-kammavarambatti/)! 🚀  
